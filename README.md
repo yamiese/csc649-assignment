@@ -14,7 +14,7 @@ Rail dispatchers and operators must keep trains moving when a disruption occurs 
 
 ## Status
 
-Work in progress (progress draft, Week 5 of CSC649). Problem formulation drafted. Requirements and user stories in progress.
+   Work in progress. Problem statement, requirements and user stories are drafted. Part C (technology brief) is in progress.
 
 ## Author
 [MUHAMMAD ADIL BIN ALIAS], [2025221046], [CS230]
