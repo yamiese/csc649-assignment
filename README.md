@@ -11,10 +11,13 @@ Rail dispatchers and operators must keep trains moving when a disruption occurs 
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+- [Technology outline](docs/technology-outline.md)
+- [References](docs/references.md)
 
 ## Status
 
-   Work in progress. Problem statement, requirements and user stories are drafted. Part C (technology brief) is in progress.
+Problem statement, requirements and user stories are drafted. The technology outline and references are in place, and the final report is being prepared for submission.
 
 ## Author
-[MUHAMMAD ADIL BIN ALIAS], [2025221046], [CS230]
+
+Muhammad Adil bin Alias, 2025221046, CS230
