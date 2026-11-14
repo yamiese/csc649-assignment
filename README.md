@@ -16,7 +16,7 @@ Rail dispatchers and operators must keep trains moving when a disruption occurs 
 
 ## Status
 
-Problem statement, requirements and user stories are drafted. The technology outline and references are in place, and the final report is being prepared for submission.
+Ready for submission.
 
 ## Author
 
